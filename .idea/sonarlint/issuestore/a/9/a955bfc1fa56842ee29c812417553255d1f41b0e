@@ -1,0 +1,13 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÚÎ¸…ü0
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Íªé¤8ÚÎ¸…ü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºã£¡üÿÿÿÿ8ÚÎ¸…ü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›µßÆşÿÿÿÿ8ÚÎ¸…ü0
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ë‘Úƒûÿÿÿÿ8ÚÎ¸…ü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ë‘Úƒûÿÿÿÿ8ÚÎ¸…ü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©‘ÓÚüÿÿÿÿ8ÚÎ¸…ü0
+U	java:S106"9Replace this use of System.out or System.err by a logger.( “©¨8ÚÎ¸…ü0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿‚Ø²8ÚÎ¸…ü0
