@@ -10,7 +10,6 @@ public class LargeNum {
         // int b[] = {1,2,3};
         int x[] = null, z[] = null, flag = 0, k = 0;
         int i = 0, l = 0, result = 0;
-        // 1. 首先输出两个大数a和b的值。
         for (int j : a) {
             System.out.printf("%d", j);
         }
@@ -18,7 +17,21 @@ public class LargeNum {
         for (int j : b) {
             System.out.printf("%d", j);
         }
+
         //---begin---
+
+        for (i = 0; i < a.length / 2; i++) {
+            int temp = a[i];
+            a[i] = a[a.length - i - 1];
+            a[a.length - i - 1] = temp;
+        }
+        for (i = 0; i < b.length / 2; i++) {
+            int temp = b[i];
+            b[i] = b[b.length - i - 1];
+            b[b.length - i - 1] = temp;
+        }
+
+
         if (a.length >= b.length) {
             x = a;
             z = b;
@@ -27,7 +40,46 @@ public class LargeNum {
             z = a;
             flag = -1;
         }
+        int c[] = new int[x.length];
+        for (i = 0; i < x.length; i++) {
+            if (i < z.length) {
+                result = x[i] - z[i];
+            } else {
+                result = x[i];
+            }
+            if (result < 0) {
+                x[i + 1]--;
+                result += 10;
+            }
+            c[i] = result;
+        }
 
+// 保存数组结果
+        for (i = 0; i < c.length / 2; i++) {
+            int temp = c[i];
+            c[i] = c[c.length - i - 1];
+            c[c.length - i - 1] = temp;
+        }
+        //---end---
+
+
+        System.out.printf("\n等于:\n");
+        if (flag == 0) {
+            System.out.printf("%d", 0);
+        } else {
+            if (flag < 0) {
+                System.out.printf("-");
+            }
+            for (i = 0; i < c.length; i++) {
+                if (c[i] != 0) {
+                    k = i;
+                    break;
+                }
+            }
+            for (i = k; i < c.length; i++) {
+                System.out.printf("%d", c[i]);
+
+            }
+        }
     }
 }
-
