@@ -43,3 +43,16 @@
 4. **自动售货机**
 - [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/MachineSell.md)
 - [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/MachineSell.java)
+### 实验三、类与对象
+1. **Tank类**
+- [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/Tank.md)
+- [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/Tank.java)
+2. **计算机与光盘**
+- [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/CD.md)
+- [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/CD.java)
+3. **家族的姓氏**
+- [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/FamilyPerson.md)
+- [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/FamilyPerson.java)
+4. **幂的类封装**
+- [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/Mi.md)
+- [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/Mi.java)
