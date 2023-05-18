@@ -56,7 +56,9 @@
 4. **幂的类封装**
 - [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/Mi.md)
 - [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/Mi.java)
-### 实验四\子类与继承
+
+### 实验四、子类与继承
+
 1. **银行存款利息计算**
 - [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/Bank.md)
 - [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/Bank.java)
