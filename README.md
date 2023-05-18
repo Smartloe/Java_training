@@ -56,3 +56,16 @@
 4. **幂的类封装**
 - [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/Mi.md)
 - [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/Mi.java)
+### 实验四\子类与继承
+1. **银行存款利息计算**
+- [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/Bank.md)
+- [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/Bank.java)
+2. **计算几何图形的面积**
+- [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/Geometry.md)
+- [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/Geometry.java)
+3. **员工类与经理类**
+- [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/Employee.md)
+- [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/Employee.java)
+4. **动物声音模拟器**
+- [题目要求](https://github.com/Smartloe/Java_training/blob/main/src/Animal.md)
+- [解答代码](https://github.com/Smartloe/Java_training/blob/main/src/Animal.java)
