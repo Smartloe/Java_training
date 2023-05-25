@@ -3,8 +3,6 @@
 src/Hanzi.java,7\e\7e0ef6cb5e85bf527c0999502c0b5817c05ce468
 <
 src/Hello.md,7\6\76fef517c51a57aa635da37f21efd03ad9683d58
->
-src/Hello.java,2\7\278c8a0422c20651ff175b8b5b33f7256b33293c
 <
 src/Hanzi.md,b\b\bb8256d0d6f80d99d83da9125b54e7ceda7fbe74
 >
@@ -55,5 +53,25 @@ E
 src/Geometry.md,4\5\4506614073173e1d8783c622509150a7c57462a9
 ;
 src/Bank.md,f\f\ffeed1459daae6dd46c006d614928acfc04b765a
+>
+src/Hello.java,2\7\278c8a0422c20651ff175b8b5b33f7256b33293c
+H
+src/WeatherForecast.java,5\4\54bdcce2c8f2cdd0844414e024a8a6c0a9422f00
+=
+src/Tank.java,f\8\f8a72fb4f35a7d8c5b77dc0e65be23eabfb3fa3f
+F
+src/WeatherForecast.md,d\9\d9ede00627e1341d1253280ba8c2c525ac21b58a
+?
+src/JiSuanQi.md,a\9\a9f17f3be5af191d97a5b93ab606d56085335fc0
+A
+src/JiSuanQi.java,c\2\c2ee8ce59ab39bd0942109fd5b2d81ee93532b1b
+B
+src/CoachPlayer.md,0\9\092dc7637fd3b7298158536c78a4fddc7e3d44b3
+D
+src/CoachPlayer.java,2\5\2537b092d409ecded65751fbd54d9a6f09afae1b
+D
+src/GraphicArea.java,9\f\9fc813cff377493ac97d6a10e31529271a29d9da
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+B
+src/GraphicArea.md,2\4\24d7073b6344134c66cad155df876685be5e11ac

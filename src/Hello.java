@@ -6,13 +6,13 @@ public class Hello {
     public static void main(String args[]) {
         // 【代码1】命令行窗口输出"你好，很高兴学习Java"
         System.out.println("你好，很高兴学习Java");
-        A a = new A();
+        AB a = new AB();
         a.fA();
 
     }
 }
 
-class A {
+class AB {
     void fA() {
         // 【代码2】命令行窗口输出"We are students"
         System.out.println("We are students");
