@@ -1,0 +1,25 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+Y
+java:S1659"CDeclare "sonOne" and all following declarations on a separate line.(ùĞôœ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÅÆüŸıÿÿÿÿ
+P
+java:S2209 "5Change this instance-reference to a static reference.(ÅÆüŸıÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÅÂÍéüÿÿÿÿ
+P
+java:S2209!"5Change this instance-reference to a static reference.(ÅÂÍéüÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ù¦‡îúÿÿÿÿ
+P
+java:S2209""5Change this instance-reference to a static reference.(ù¦‡îúÿÿÿÿ
+K
+java:S2209$"5Change this instance-reference to a static reference.(â—ŸŒ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ÅÆüŸıÿÿÿÿ
+P
+java:S2209%"5Change this instance-reference to a static reference.(ÅÆüŸıÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÅÂÍéüÿÿÿÿ
+P
+java:S2209&"5Change this instance-reference to a static reference.(ÅÂÍéüÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ù¦‡îúÿÿÿÿ
+P
+java:S2209'"5Change this instance-reference to a static reference.(ù¦‡îúÿÿÿÿ

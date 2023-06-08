@@ -1,7 +1,0 @@
-
-S
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-S	java:S106
-"9Replace this use of System.out or System.err by a logger.(¥å¶Úûÿÿÿÿ
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(ı×§¦ûÿÿÿÿ
-U	java:S106""9Replace this use of System.out or System.err by a logger.(Å–ó—8òøÎ¦ş0

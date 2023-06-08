@@ -1,16 +1,0 @@
-
-N
-java:S1610"8Convert the abstract class "Geometry" into an interface.(¡ÀÉ
-:
-java:S16591"Declare "b" on a separate line.(åÎ¥şÿÿÿÿ
-S
-java:S1197Z"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-g
-java:S3457e"Q%n should be used in place of \n to produce the platform-specific line separator.(óÂıı
-N	java:S106e"9Replace this use of System.out or System.err by a logger.(óÂıı
-3
-java:S1700H"Rename field "totalArea"(¢å£éÿÿÿÿÿ
-X
-java:S2184^"BCast one of the operands of this addition operation to a "double".(™†¿„
-]
-java:S2184`"BCast one of the operands of this addition operation to a "double".(š®‡ûıÿÿÿÿ

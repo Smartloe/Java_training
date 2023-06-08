@@ -1,0 +1,28 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¡şÏÖøÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+Y
+java:S1659"CDeclare "result" and all following declarations on a separate line.(íß¯û
+E
+java:S1197	"*Move the array designators [] to the type.(Ÿ­çÛüÿÿÿÿ
+E
+java:S1197
+"*Move the array designators [] to the type.(ÅÙ§‘úÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¬è–©ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç‡Í¸ûÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(éšŸ„
+;
+java:S3457"%String contains no format specifiers.(éšŸ„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éšŸ„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ–Á¨
+g
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(öÑÃ”
+;
+java:S3457)"%String contains no format specifiers.(öÑÃ”
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(öÑÃ”
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(×İÏ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Èû˜ıÿÿÿÿ

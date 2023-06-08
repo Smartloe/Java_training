@@ -1,0 +1,21 @@
+
+C
+java:S2387$"("year" is the name of a field in "Bank".(ô“¨Éüÿÿÿÿ
+U
+java:S1161'":Add the "@Override" annotation above this method signature(”’È²úÿÿÿÿ
+g
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(­ÅÖà
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(­ÅÖà
+C
+java:S2387>"("year" is the name of a field in "Bank".(ô“¨Éüÿÿÿÿ
+U
+java:S1161@":Add the "@Override" annotation above this method signature(”’È²úÿÿÿÿ
+l
+java:S3457H"Q%n should be used in place of \n to produce the platform-specific line separator.(ŠØÛŞşÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ŠØÛŞşÿÿÿÿ
+E
+java:S1197P"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+l
+java:S3457\"Q%n should be used in place of \n to produce the platform-specific line separator.(å§Èòüÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(å§Èòüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İŞç

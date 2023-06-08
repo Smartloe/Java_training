@@ -1,0 +1,21 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+8
+java:S1659	""Declare "zifu" on a separate line.(À©É¿
+]
+java:S1659
+"BDeclare "count" and all following declarations on a separate line.(Ğ½É±üÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÒÕúÁ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÕúÁ
+<
+java:S1905"&Remove this unnecessary cast to "int".(Í…´©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éÌ©®ùÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(öâˆ®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öâˆ®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë¤Øç
+=
+java:S1905"'Remove this unnecessary cast to "char".(ë¤Øç
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Èû˜ıÿÿÿÿ

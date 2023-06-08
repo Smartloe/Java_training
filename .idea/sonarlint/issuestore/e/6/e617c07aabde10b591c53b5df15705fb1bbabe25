@@ -1,0 +1,25 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¸ÖˆÅùÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(¸ÖˆÅùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÖˆÅùÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(³ş“ƒÿÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(³ş“ƒÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ş“ƒÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›Š‹Âşÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ªÙ˜º
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ªÙ˜º
+7	java:S131""Add a default case to this switch.(éó‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š¥ Ğ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Åış|
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÏ¢¹
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Éõşj
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(éó‰
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿•¦º8Š‹Ú‰1
