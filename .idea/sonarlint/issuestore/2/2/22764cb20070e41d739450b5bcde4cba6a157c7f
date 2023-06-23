@@ -1,0 +1,15 @@
+
+b	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªﬁ“Ô
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÿÆÁã
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(Ô÷«œ˙ˇˇˇˇ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(∫œñˆ¯ˇˇˇˇ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(Ô÷«œ˙ˇˇˇˇ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ÑùÌÌ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ÙçœÃ¯ˇˇˇˇ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(¶œ≤ó
+O	java:S106Ç"9Replace this use of System.out or System.err by a logger.(§ñâ™
+O	java:S106É"9Replace this use of System.out or System.err by a logger.(–É≈À
+O	java:S106í"9Replace this use of System.out or System.err by a logger.(∞ß—”
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¿ÿé
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“›îÁ˝ˇˇˇˇ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒÍ∏È˙ˇˇˇˇ

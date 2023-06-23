@@ -1,48 +1,0 @@
-
-m
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¡şÏÖøÿÿÿÿ
-S
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-:
-java:S1659"Declare "z" on a separate line.(½¯ÈÍüÿÿÿÿ
-=
-java:S1659""Declare "flag" on a separate line.(½¯ÈÍüÿÿÿÿ
-:
-java:S1659"Declare "k" on a separate line.(½¯ÈÍüÿÿÿÿ
-5
-java:S1659"Declare "l" on a separate line.(·­ 
-:
-java:S1659"$Declare "result" on a separate line.(·­ 
-N
-java:S1197"8Move the array designator from the variable to the type.(–è” 
-N
-java:S1197"8Move the array designator from the variable to the type.(Î«ú²
-S
-java:S1197"8Move the array designator from the variable to the type.(½¯ÈÍüÿÿÿÿ
-V	java:S125	"<This block of commented-out lines of code should be removed.(…Ü„ßúÿÿÿÿ
-S
-java:S1197"8Move the array designator from the variable to the type.(½¯ÈÍüÿÿÿÿ
-V	java:S125	"<This block of commented-out lines of code should be removed.(…Ü„ßúÿÿÿÿ
-V	java:S125	"<This block of commented-out lines of code should be removed.(…Ü„ßúÿÿÿÿ
-V	java:S125	"<This block of commented-out lines of code should be removed.(…Ü„ßúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ç¼ºıÿÿÿÿ
-g
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(óÜÆÛ
-;
-java:S3457"%String contains no format specifiers.(óÜÆÛ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(óÜÆÛ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ç¼ºıÿÿÿÿ
-S
-java:S1197+"8Move the array designator from the variable to the type.(¿šÓøÿÿÿÿ
-g
-java:S3457B"Q%n should be used in place of \n to produce the platform-specific line separator.(öÑÃ”
-;
-java:S3457B"%String contains no format specifiers.(öÑÃ”
-N	java:S106B"9Replace this use of System.out or System.err by a logger.(öÑÃ”
-N	java:S106D"9Replace this use of System.out or System.err by a logger.(Ô‰ûà
-;
-java:S3457G"%String contains no format specifiers.(ª¾ì·
-N	java:S106G"9Replace this use of System.out or System.err by a logger.(ª¾ì·
-N	java:S106P"9Replace this use of System.out or System.err by a logger.(×İÏ
-<
-java:S1481"&Remove this unused "l" local variable.(·­ 

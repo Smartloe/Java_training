@@ -1,0 +1,15 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(®£N
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğå›³
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š­Ïşÿÿÿÿÿ
+E
+java:S1172&"/Remove these unused method parameters "a", "b".(ùãò¸
+c	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø±ûˆ
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íĞ“Áúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÓÖƒıÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ú‘
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îê¸éúÿÿÿÿ
+b
+java:S1223-"LRename this method to prevent any misunderstanding or make it a constructor.(ø±ûˆ
+g
+java:S12234"LRename this method to prevent any misunderstanding or make it a constructor.(íĞ“Áúÿÿÿÿ

@@ -1,0 +1,12 @@
+
+=
+java:S1165." Make this "message" field final.(ÍñÄš8¿øøæ‹1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÌË§„8Áøøæ‹1
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.( ¹Ñ¦ÿÿÿÿÿ8Ãøøæ‹1
+L
+java:S1197I"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Åøøæ‹1
+L
+java:S1197K"*Move the array designators [] to the type.(ü£ƒëıÿÿÿÿ8Æøøæ‹1
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(üÑØöıÿÿÿÿ8Ëøøæ‹1
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(ãèØö8Íøøæ‹1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îê¸éúÿÿÿÿ8Ñøøæ‹1

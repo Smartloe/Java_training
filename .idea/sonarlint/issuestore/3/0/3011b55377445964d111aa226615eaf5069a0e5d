@@ -1,0 +1,65 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8¨·½Ü‰1
+X
+java:S1854";Remove this useless assignment to local variable "company".(†˜¨†8¶·½Ü‰1
+X
+java:S1854"6Remove this useless assignment to local variable "id".(¨° Ôùÿÿÿÿ8¶·½Ü‰1
+Y
+java:S1854"<Remove this useless assignment to local variable "deleteId".(³ŞÎÚ8··½Ü‰1
+U
+java:S1854."8Remove this useless assignment to local variable "code".(İ¾Šâ8··½Ü‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Á«ñ¾øÿÿÿÿ8Õ·½Ü‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Øæøùşÿÿÿÿ8Ú·½Ü‰1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…úˆµ8ß·½Ü‰1
+I
+java:S1481"'Remove this unused "id" local variable.(¨° Ôùÿÿÿÿ8ä·½Ü‰1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(àıÅÃ8ä·½Ü‰1
+I
+java:S1481",Remove this unused "company" local variable.(†˜¨†8å·½Ü‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ş÷“éşÿÿÿÿ8è·½Ü‰1
+O
+java:S1135"2Complete the task associated to this TODO comment.(Ä¾ÿÒ8é·½Ü‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ÕƒØùÿÿÿÿ8é·½Ü‰1
+J
+java:S1481"-Remove this unused "deleteId" local variable.(³ŞÎÚ8ê·½Ü‰1
+O
+java:S1135"2Complete the task associated to this TODO comment.(Œ¤•Ÿ8ê·½Ü‰1
+T
+java:S1135 "2Complete the task associated to this TODO comment.(ÂÃÜûÿÿÿÿ8ê·½Ü‰1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(£¡Ûàøÿÿÿÿ8ë·½Ü‰1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ê¾Î§ÿÿÿÿÿ8ì·½Ü‰1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ú¼Û§ıÿÿÿÿ8î·½Ü‰1
+F
+java:S1481.")Remove this unused "code" local variable.(İ¾Šâ8ï·½Ü‰1
+T
+java:S1135/"2Complete the task associated to this TODO comment.(¢³¼áüÿÿÿÿ8ï·½Ü‰1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Ë„àáüÿÿÿÿ8ï·½Ü‰1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ó–«ıÿÿÿÿ8ğ·½Ü‰1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(¥ÅÉ²úÿÿÿÿ8ò·½Ü‰1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(…¯¨ï8ó·½Ü‰1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(´¿ÆÜÿÿÿÿÿ8ô·½Ü‰1
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(°…É¤8õ·½Ü‰1
+O
+java:S1135?"2Complete the task associated to this TODO comment.(Ä¾ÿÒ8õ·½Ü‰1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(£¡Ûàøÿÿÿÿ8õ·½Ü‰1
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(£¡Ûàøÿÿÿÿ8ö·½Ü‰1
+T	java:S106K"9Replace this use of System.out or System.err by a logger.(Ú-8÷·½Ü‰1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(£¡Ûàøÿÿÿÿ8÷·½Ü‰1
+[
+java:S3400Z"9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ8ø·½Ü‰1
+O
+java:S1135Y"2Complete the task associated to this TODO comment.(åà„ş8ù·½Ü‰1
+[
+java:S3400d"9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ8ú·½Ü‰1
+T
+java:S1135c"2Complete the task associated to this TODO comment.(°±éçùÿÿÿÿ8ú·½Ü‰1
+V
+java:S3400p"9Remove this method and declare a constant for this value.(”·³›8û·½Ü‰1
+[
+java:S1172n">Remove these unused method parameters "destination", "weight".(àá»ˆ8†¸½Ü‰1
+T
+java:S1135o"2Complete the task associated to this TODO comment.(ì˜æ²ùÿÿÿÿ8‡¸½Ü‰1
+„
+java:S1192%"bDefine a constant instead of duplicating this literal "è¾“å…¥æœ‰è¯¯ï¼Œè¯·é‡æ–°è¾“å…¥ï¼" 4 times.(£¡Ûàøÿÿÿÿ8Š¸½Ü‰1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿãä§ıÿÿÿÿ8’¸½Ü‰1

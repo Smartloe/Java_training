@@ -1,0 +1,35 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È³Ìúşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¶´›§şÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(àÏŸ«úÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(¶´›§şÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ŠÑÊÊûÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¶´›§şÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(•»¾İúÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(¶´›§şÿÿÿÿ
+T
+java:S5993["9Change the visibility of this constructor to "protected".(¾ÆÆ§ÿÿÿÿÿ
+O
+java:S5993_"9Change the visibility of this constructor to "protected".(ƒÜïí
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ä£¼ğøÿÿÿÿ
+O
+java:S5993z"9Change the visibility of this constructor to "protected".(í¤ğí
+O
+java:S5993~"9Change the visibility of this constructor to "protected".(ËÇÁã
+P
+java:S5993Œ"9Change the visibility of this constructor to "protected".(ïôÄ
+P
+java:S5993"9Change the visibility of this constructor to "protected".(¿•Ù²
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(…½Êƒ
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(µƒÿæ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(Õ»²„ıÿÿÿÿ
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ğ„ßí
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Â£•Ô
+O	java:S106æ"9Replace this use of System.out or System.err by a logger.(“œ©Æ
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(²™¹Ï
+O	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ÈáÂó
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(©áóıÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(Ö‰ù®øÿÿÿÿ
+l
+java:S1192 "QDefine a constant instead of duplicating this literal "----------------" 4 times.(¶´›§şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áóï‡üÿÿÿÿ
